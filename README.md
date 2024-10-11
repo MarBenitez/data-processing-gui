@@ -58,3 +58,11 @@ The application is capable of processing sensor data including **Temperature, Hu
 
 - Adapt the data processing logic to analyze **financial data**, **sales data**, or **health statistics** by modifying the functions in `app.py`.
 - Change the **View** to accommodate different input types or visualizations, like plotting charts using matplotlib.
+
+### Screenshots
+
+![load](https://github.com/MarBenitez/data-processing-gui/blob/main/images/load-csv.png)
+
+![input](https://github.com/MarBenitez/data-processing-gui/blob/main/images/show-input.png)
+
+![analyzed](https://github.com/MarBenitez/data-processing-gui/blob/main/images/analyze-data.png)
